@@ -1,5 +1,6 @@
 # Feed Waste Optimization: A Multimodal Data Fusion Project
 
+### Project Demonstration
 https://github.com/user-attachments/assets/f4392bc4-bf64-4a81-b790-942cc272b154
 
 ### What is this project?
