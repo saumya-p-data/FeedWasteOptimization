@@ -191,7 +191,7 @@ user_prompt = st.chat_input("Ask a question (e.g., 'Why is the feed target so lo
 if user_prompt:
     st.chat_message("user").write(user_prompt)
     
-    with st.spinner("AI Analyst is reviewing site telemetry..."):
+    with st.spinner("AI Analyst is analyzing site data..."):
         try:
             # Connecting to the local Ollama server
             # Note: I'm using llama3.2 because it's optimized for edge-computing.
