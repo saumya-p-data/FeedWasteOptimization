@@ -1,7 +1,8 @@
 # Feed Waste Optimization: A Multimodal Data Fusion Project
 
 ### Project Demonstration
-https://github.com/user-attachments/assets/f4392bc4-bf64-4a81-b790-942cc272b154
+
+https://github.com/user-attachments/assets/260e5bf9-67cf-4787-9cd8-c44ac743e026
 
 ### What is this project?
 In salmon farming, data comes from many different sources—underwater cameras, oxygen sensors, and production databases. Usually, these systems don't talk to each other. This project is a **Digital Twin prototype** that brings all this different data together into one dashboard.
